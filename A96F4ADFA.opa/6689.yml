@@ -1,0 +1,27 @@
+segment_sources:
+  I864D0608:
+    type: origin_type
+    relation: translation
+    base: 965C
+    lang: en
+  I0144D24D:
+    type: origin_type
+    relation: translation
+    base: '3588'
+    lang: bo
+segment_pairs:
+  d29874cec3dc4c20b6b9b25074af681e:
+    I864D0608: 707e80387f04434ab970acfa20dd33b3
+    I0144D24D: 0d3d7ef567334fc59ae651bf4cf0908d
+  7239fe51e2de44f0b3bcb729ba3f7e61:
+    I864D0608: f66ad26457d14cef8fc32b454bb3b4c9
+    I0144D24D: d9b36e3c11f94db6bdcfc5a0269c0693
+  07afcfebc6d4409280be0426e296fcf8:
+    I864D0608: c4056a9b8288446a8163020dcf3757dd
+    I0144D24D: c19d466d809640f29555eb8491053ddc
+  28cf40b945e34059ba1915c1a51f7503:
+    I864D0608: 5c7b6e8156d24f36a51ce3bd1bb02d8d
+    I0144D24D: af4775c2198e4ab08969cae3ebacb89a
+  e222a8b8ac014ab99bd60552459c1b0a:
+    I864D0608: b7f8533468c244fdba9c20f5514b686c
+    I0144D24D: 0de61a91f28d4661b2271c7e4ccc773a
